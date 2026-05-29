@@ -1,5 +1,5 @@
 """
-containerkit.utils.paginator
+Vessel.utils.paginator
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Paginated container messages with Prev / Next navigation.
 """

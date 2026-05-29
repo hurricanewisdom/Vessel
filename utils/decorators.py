@@ -1,5 +1,5 @@
 """
-containerkit.utils.decorators
+Vessel.utils.decorators
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Convenience decorators for wrapping ctx automatically.
 """

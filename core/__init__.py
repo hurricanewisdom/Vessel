@@ -1,5 +1,5 @@
 """
-containerkit.core
+Vessel.core
 """
 from .context import ContainerContext
 from .message import ContainerMessage

@@ -1,5 +1,5 @@
 """
-containerkit.utils.modal
+Vessel.utils.modal
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 Send a modal prompt via a button, collect the response, and return values.
 """

@@ -1,5 +1,5 @@
 """
-containerkit.components
+Vessel.components
 """
 from .builder import build_components
 

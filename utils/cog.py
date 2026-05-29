@@ -1,5 +1,5 @@
 """
-containerkit.utils.cog
+Vessel.utils.cog
 ~~~~~~~~~~~~~~~~~~~~~~~
 A base Cog class that automatically injects ContainerContext into every
 command, so you never have to wrap ctx manually.

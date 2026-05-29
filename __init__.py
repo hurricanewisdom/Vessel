@@ -1,5 +1,5 @@
 """
-containerkit
+Vessel
 ~~~~~~~~~~~~
 A fully-featured Discord.py library for sending Components V2 container
 messages as a drop-in replacement for ctx.send / ctx.reply.
@@ -8,7 +8,7 @@ Quick start
 -----------
 ::
 
-    from containerkit import ContainerContext, ContainerCog, use_container
+    from Vessel import ContainerContext, ContainerCog, use_container
 
     # 1. Manual wrap
     @bot.command()

@@ -1,5 +1,5 @@
 """
-containerkit.components.builder
+Vessel.components.builder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Translates high-level kwargs (header, footer, sections, buttons, etc.)
 into a valid Discord Components V2 component tree.

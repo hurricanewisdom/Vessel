@@ -1,5 +1,5 @@
 """
-containerkit.core.context
+Vessel.core.context
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 The main ContainerContext class — a drop-in ctx replacement that sends
 Components V2 containers instead of plain messages or embeds.

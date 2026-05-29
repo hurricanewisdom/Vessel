@@ -1,5 +1,5 @@
 """
-containerkit.utils
+Vessel.utils
 """
 from .cog import ContainerCog
 from .decorators import container_command, use_container

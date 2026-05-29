@@ -1,5 +1,5 @@
 """
-containerkit.core.message
+Vessel.core.message
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 Wrapper around a sent Discord message that provides container-aware
 edit / delete / reaction helpers.

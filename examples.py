@@ -1,7 +1,7 @@
 """
 examples.py
 ~~~~~~~~~~~
-Full demonstration of every containerkit feature.
+Full demonstration of every Vessel feature.
 Drop your bot token in and run to test.
 """
 
@@ -9,8 +9,8 @@ import asyncio
 import discord
 from discord.ext import commands
 
-# ─── Import everything from containerkit ──────────────────────────────────────
-from containerkit import (
+# ─── Import everything from Vessel ──────────────────────────────────────
+from Vessel import (
     ContainerContext,
     ContainerCog,
     use_container,
@@ -427,7 +427,7 @@ async def setup_cogs():
 @bot.event
 async def on_ready():
     await setup_cogs()
-    print(f"Logged in as {bot.user} — containerkit ready!")
+    print(f"Logged in as {bot.user} — Vessel ready!")
 
 
 bot.run("YOUR_TOKEN_HERE")
