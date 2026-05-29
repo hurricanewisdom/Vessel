@@ -434,7 +434,7 @@ bot.add_command(ping)
 ## ✦ Full Examples
 
 <details>
-<summary><strong>📄 Paginated help menu</strong></summary>
+<summary><strong>Paginated help menu</strong></summary>
 
 ```python
 class HelpCog(ContainerCog):
