@@ -26,7 +26,12 @@
 
 ```py
 c = ContainerContext(ctx)
-await c.send(f"{member.mention} is happy! 🎉", header="Greeting", color=discord.Color.gold())
+
+await c.send(
+    f"{member.mention} is happy! 🎉",
+    header="Greeting",
+    color=discord.Color.gold(),
+)
 ```
 
 <br/>
